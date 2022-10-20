@@ -1,3 +1,4 @@
+base: "./",
 const path = require('path')
 const { defineConfig } = require('vite')
 
